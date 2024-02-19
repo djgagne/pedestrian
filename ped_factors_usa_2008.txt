@@ -1,0 +1,18 @@
+Factors	Number	Percent	
+
+Walking, playing, working, etc. in roadway	857	19.4	
+Improper crossing of roadway or intersection	839	19.0	
+Failure to yield right of way	755	17.1	
+Physical impairment	674	15.3	
+Not Visible	488	11.1	
+Darting or running into road	481	10.9	
+Inattentive (Talking, Eating, etc.)	87	2.0	
+Failure to obey traffic signs, signals, or officer	76	1.7	
+Emotional (e.g., Depression, Angry, Disturbed)	21	0.5	
+Getting on/off/in/out of transport vehicle	16	0.4	
+Non-Motorist pushing  vehicle	13	0.3	
+Ill, blackout	9	0.2	
+Other factors	122	2.8	
+None Reported	1506	34.1	
+Unknown	105	2.4	
+Total	4414	100.0	

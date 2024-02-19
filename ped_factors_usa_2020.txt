@@ -1,0 +1,23 @@
+Factors	Number	Percent	
+
+Failure to yield right of way	3306	50.4	
+Improper crossing of roadway or intersection	1188	18.1	
+Not visible (dark clothing, no lighting, etc.)	805	12.3	
+In roadway improperly (standing, lying, working, playing)	743	11.3	
+Under the influence of alcohol, drugs, or medication	719	11.0	
+Darting or running into road	507	7.7	
+Wrong-way walking	479	7.3	
+Distracted (phone, talking, eating, object, etc.)	239	3.6	
+Failure to obey traffic signs, signals, or officer	237	3.6	
+Traveling on Prohibited Trafficways	165	2.5	
+Physical impairment	122	1.9	
+Emotional (e.g. depression, angry, disturbed)	39	0.6	
+Entering/exiting parked or stopped vehicle	28	0.4	
+Ill, blackout	22	0.3	
+Vision obscured (by rain, snow, parked vehicle, sign, etc.)	19	0.3	
+Asleep or fatigued	7	0.1	
+Non-Motorist pushing  vehicle	3	0.0	
+Other factors	237	3.6	
+None Reported	132	2.0	
+Unknown	1392	21.2	
+Total	6565	100.0	
